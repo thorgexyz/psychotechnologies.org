@@ -1,0 +1,3 @@
+- https://sashachapin.substack.com/p/how-i-attained-persistent-self-love
+- https://medium.com/@tuckermax/what-mdma-therapy-did-for-me-41ffe5f15971
+- https://tim.blog/2020/09/14/how-to-heal-trauma/

@@ -1,0 +1,104 @@
+
+**Psychotechnologies**
+- IFS
+- EMDR
+- Gendlin Focusing
+- Hakomi
+- NEDERA
+- Lefkoe
+- Somatic Experiencing
+- Trauma sensitive yoga
+- Core energetics
+- Limbic retraining
+- DNRS
+- Gupta
+- Priming (Tony Robbins stuff)
+- Matrix energetics
+- Psych-k
+- Molecules of Emotion
+- Circling
+- Existential Kink
+- Bio-emotive framework
+- Coherence Therapy
+- Alexander Technique
+- Microsolidarity.cc
+- Sedona Method
+- Reichian bioenergetics
+- Cranio sacral
+- Ancestral and collective trauma healing (Thomas Hübl)
+- IPFP
+- Core Transformation
+- FBR
+- Inquiry
+- IDC
+- Naikan
+- VIEW
+- Feldenkrais
+- ACT (Acceptance and commitment therapy)
+- Tulpamancy
+- Psychedelics
+- Family Constellations
+- UZAZU
+- Gene Keys
+- Being epic (emerging framework)
+- Integral Theory
+- Spiral Dynamics
+- Contact improv
+- Meditation
+	- Jhana
+- Brainspotting
+- Reiki
+- Bodytalk
+- Psychedelic assisted psychotherapy
+- Neuro Affective Relational Model (NARM)
+- DBT (Dialectial Behavior Therapy)
+- EFT (Emotional Freedom Tapping)
+- NLP
+- Lippman's Folding
+- Constructive Developmental Theory (CDT)
+- Sensorimotor psychotherapy
+- PSIP (Psychedelic Somatic Interactional Psychology)
+	- Selective Inhibition
+- Shadow work
+- Introspection
+- AEDP
+- Qigong
+- Psychoanalysis
+- Cognitive Behavioral Therapy
+- Family Systems Therapy
+- Wimhof
+- Holotrophic breathing
+- Compassionate Inquiry
+- Consent Practice
+- Consistent Walking
+- Dynamic Meditation
+- Eye Gazing
+- Havening Techniques
+- Hoffman Process
+- Magnesium
+- Non-Violent Communication
+- Journaling
+- Wardley Mapping
+- DSRP
+- Pletica
+- Cynefin
+- Vagus Nerve Stimulation (tVNS)
+- Radical Acceptance
+- Hypnodelics (psychedelic hypnosis)
+- Gratitude
+- Lucid Dreaming
+- Active Imagination Thread
+- Ennegram
+
+For each
+- Principle
+- Function
+- Moste useful for
+
+Example:
+Focussing
+- Principle: Attuning to your internal, subconscious ‘felt senses’ helps you understand and process your issues
+- Function: Settling down and turning inwards, ask yourself an open ended question and pay close attention to body texture
+- Most useful for: Building up internal awareness; learning to dialogue with your intuition.
+
+https://github.com/mwcvitkovic/neuromodulation_modalities
