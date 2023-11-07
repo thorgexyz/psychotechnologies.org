@@ -1,12 +1,13 @@
-
-**Psychotechnologies**
-- IFS
-- EMDR
-- Gendlin Focusing
-- Hakomi
+List of psychotechnologies and related theory to be explored and potentially aggregated.
+- non-coercion
+- journalling 
+- Belief Reporting - 
+- Ultraspeaking - improv
+- Landmark
+- Microsolidarity.cc
+- Authentic relating
 - NEDERA
 - Lefkoe
-- Somatic Experiencing
 - Trauma sensitive yoga
 - Core energetics
 - Limbic retraining
@@ -17,22 +18,14 @@
 - Psych-k
 - Molecules of Emotion
 - Circling
-- Existential Kink
-- Bio-emotive framework
-- Coherence Therapy
-- Alexander Technique
-- Microsolidarity.cc
 - Sedona Method
 - Reichian bioenergetics
 - Cranio sacral
 - Ancestral and collective trauma healing (Thomas Hübl)
-- IPFP
-- Core Transformation
 - FBR
 - Inquiry
 - IDC
 - Naikan
-- VIEW
 - Feldenkrais
 - ACT (Acceptance and commitment therapy)
 - Tulpamancy
@@ -44,8 +37,6 @@
 - Integral Theory
 - Spiral Dynamics
 - Contact improv
-- Meditation
-	- Jhana
 - Brainspotting
 - Reiki
 - Bodytalk
@@ -89,16 +80,13 @@
 - Lucid Dreaming
 - Active Imagination Thread
 - Ennegram
+- Everything from here: https://github.com/mwcvitkovic/neuromodulation_modalities
 
-For each
+####Contribute
+Please help to [[How to contribute]]
+Using this template [[t_Psychotechnologies|t_Psychotechnologies]]
 - Principle
 - Function
 - Moste useful for
 
-Example:
-Focussing
-- Principle: Attuning to your internal, subconscious ‘felt senses’ helps you understand and process your issues
-- Function: Settling down and turning inwards, ask yourself an open ended question and pay close attention to body texture
-- Most useful for: Building up internal awareness; learning to dialogue with your intuition.
 
-https://github.com/mwcvitkovic/neuromodulation_modalities

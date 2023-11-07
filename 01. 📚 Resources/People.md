@@ -5,6 +5,9 @@ Twitter people
 - John Vervaeke
 - Nick cammarata
 
+- Michael Taft
+
+
 Researcher
 
 Template

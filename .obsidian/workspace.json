@@ -4,127 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e30461e1f9ddb29c",
+        "id": "99706c1191b3fe9f",
         "type": "tabs",
         "children": [
           {
-            "id": "ef67a817ab02990e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "698444103487e22b",
+            "id": "f15a975b650e4518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. 👋 About/Other lists.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e38710b425076d4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. 👋 About/About the project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ddee46c43be4101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. 🥋 Psychotechnologies/Psychotechnologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "422ad5371b006b8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04. 🏘 Project/Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f663d5434d25a40c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. 👥 People/People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "994009a9803c28d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. 🥋 Psychotechnologies/Psychotechnologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9cf36e2e5c64136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. 🥋 Psychotechnologies/Psychotechnologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6e13494537083c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03. 🥋 Psychotechnologies/Psychotechnologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ef9f7794350234e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. 👋 About/About the project.md",
+                "file": "00. 👋 About/Start here.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. 👋 About/About the project.md",
+                "file": "00. 👋 About/Start here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. 👋 About/About the project.md",
+                "file": "00. 👋 About/Start here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. 👋 About/About the project.md"
+                "file": "00. 👋 About/Start here.md"
               }
             }
           }
@@ -243,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -251,21 +147,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ef9f7794350234e",
+  "active": "f15a975b650e4518",
   "lastOpenFiles": [
-    "03. 🥋 Psychotechnologies/Psychotechnologies.md",
-    "00. 👋 About/Other lists.md",
-    "00. 👋 About/How to use this website.md",
-    "00. 👋 About/About the project.md",
-    "00. 👋 About/How do I add, edit, or remove pages?.md",
-    "01. 📚 Resources/Books.md",
-    "02. 👥 People/People.md",
-    "Misc.md",
-    "01. 📚 Resources/Theory.md",
-    "03. 🥋 Psychotechnologies/IFS.md",
-    "04. 🏘 Project/Projects.md",
-    "04. 🏘 Project",
+    "Templates/t_Psychotechnologies.md",
+    "00. 👋 About/psychotechnologies.md",
+    "00. 👋 About/How to contribute.md",
+    "01. 📚 Resources/Related theory.md",
+    "Misc/More Psychotechnologies.md",
+    "Misc/List of psychotechnologies.md",
+    "03. 🥋 Psychotechnologies/VIEW.md",
+    "Misc/psychotechnologies.md",
+    "Misc/self-healing.md",
+    "Templates/Psychotechnologies.md",
+    "03. 🥋 Psychotechnologies/Existential Kink.md",
+    "03. 🥋 Psychotechnologies/EMDR.md",
+    "03. 🥋 Psychotechnologies/Core Transformation.md",
+    "03. 🥋 Psychotechnologies/Coherence Therapy.md",
+    "03. 🥋 Psychotechnologies/Hakomi.md",
+    "03. 🥋 Psychotechnologies/Internal Family Systems (IFS).md",
+    "03. 🥋 Psychotechnologies/Gendlin Focussing.md",
+    "03. 🥋 Psychotechnologies/Bio-emotive Framework.md",
+    "03. 🥋 Psychotechnologies/Alexander Technique.md",
+    "03. 🥋 Psychotechnologies/IPF.md",
+    "03. 🥋 Psychotechnologies/Meditation.md",
+    "03. 🥋 Psychotechnologies/Somatic Experiencing.md",
     "01. 📚 Resources/Healing journeys.md",
+    "Memory Reconsolidation.md",
+    "Neural Annealing.md",
+    "00. 👋 About/Other psycho technology lists.md",
+    "Templates",
+    "Misc",
+    "04. 🏘 Project",
     "01. 📚 Resources",
     "02. 👥 People",
     "03. 🥋 Psychotechnologies",

@@ -7,17 +7,7 @@ IPF
 
 IFS
 
-[https://twitter.com/nowtheo/status/1542179899863363585](https://twitter.com/nowtheo/status/1542179899863363585)
 
-[https://twitter.com/daemonhugger/status/1314615165619367936](https://twitter.com/daemonhugger/status/1314615165619367936)
-
-[https://twitter.com/johnvmcdonnell/status/1605016789041446912](https://twitter.com/johnvmcdonnell/status/1605016789041446912)
-
-  
-https://completionloop.mystrikingly.com/
-  
-
-[https://twitter.com/nowtheo](https://twitter.com/nowtheo)
 
   
 
@@ -44,3 +34,23 @@ PSIP (Psychedelic Somatic Interactional Psychology)
 Somatic Experiencing:
 
 [https://rosalewis.co.uk/for-the-body/embodiment/](https://rosalewis.co.uk/for-the-body/embodiment/)
+
+
+
+
+
+
+
+Definition psychotechnology
+- As colloquially used in TPOT, any tool that helps you get closer to understand and heal your own psyche
+- Psychotechnologies: a toolbox for non-specific self improvement. Better concentration, emotional intelligence, a Happy Switch to flip on bad days, etc. More common the pst couple decades w the rise of neurobuddhism https://x.com/the_wilderless/status/1479773746521063428?s=20
+- laut verdeke: first researchers in the 90s, then coined by verdeke
+	- socially desgined tool designed to fit your cognition according to common principles of how cognition works for enhancing mental capacity
+	- we become identified by them as they empower us
+	- he includes links like literacy
+	- distributed cognition
+	- deeply ingrained, identified with them, empowers
+- As used in TPOT
+- https://twitter.com/sophianegativa/status/1624506511232843779
+- Psychotechnology is when formless things (ie. of the psyche) are arranged using knowledge for some intention & utility (https://twitter.com/nopranablem/status/1624605958990069760/analytics)
+- any tool that helps you get closer to understanding your psyche/self https://x.com/melodaysong/status/1613336735257358336?s=20
