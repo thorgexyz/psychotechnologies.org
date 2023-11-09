@@ -1,3 +1,0 @@
-Meditation
-	- Jhana
-	- Metta

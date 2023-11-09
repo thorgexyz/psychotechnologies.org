@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaptive Information Processing.md",
+                "file": "about/Start here.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "f6a9eb333b1c76b3",
@@ -84,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Adaptive Information Processing.md",
+            "file": "about/Start here.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Adaptive Information Processing.md",
+            "file": "about/Start here.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Adaptive Information Processing.md"
+            "file": "about/Start here.md"
           }
         }
       }
@@ -133,32 +134,32 @@
   },
   "active": "075ebd7ec518d280",
   "lastOpenFiles": [
+    "The.md",
+    "resources/Attachment Theory.md",
+    "resources/CPTSD.md",
+    "people/Brett Kistler.md",
+    "resources/Dynamics of Inner work.md",
+    "resources/How to find a therapist.md",
+    "people/Joe Hudson.md",
+    "psychotechnologies/Metta Meditation.md",
+    "psychotechnologies/Jhana Meditation.md",
+    "resources/Risks and Dangers.md",
+    "projects/Art of Accomplishment.md",
+    "00. 👋 About/psychotechnologies.md",
+    "00. 👋 About/Start here.md",
+    "00. 👋 About/How to contribute.md",
+    "00. 👋 About/Other psychotechnology lists.md",
+    "Psychotechnologies.org.md",
+    "Somalist.md",
+    "Attachment Repair.md",
+    "Adaptive Information Processing.md",
+    "03. 🥋 Psychotechnologies/Meditation.md",
+    "Vivid Void.md",
     "01. 📚 Resources/Related theory.md",
     "Misc/self-healing.md",
-    "00. 👋 About/Start here.md",
-    "00. 👋 About/psychotechnologies.md",
-    "00. 👋 About/How to contribute.md",
     "Templates/t_Psychotechnologies.md",
     "01. 📚 Resources/Healing journeys.md",
     "Neural Annealing.md",
-    "Memory Reconsolidation.md",
-    "03. 🥋 Psychotechnologies/Existential Kink.md",
-    "03. 🥋 Psychotechnologies/VIEW.md",
-    "Templates",
-    "Lulie.md",
-    "Misc/List of psychotechnologies.md",
-    "Misc/More Psychotechnologies.md",
-    "Intro.md",
-    "03. 🥋 Psychotechnologies/Bio-emotive Framework.md",
-    "Michael Ashcroft.md",
-    "01. 📚 Resources/Books.md",
-    "00. 👋 About/Other psycho technology lists.md",
-    "00. 👋 About/List of psychotechnologies.md",
-    "03. 🥋 Psychotechnologies/Alexander Technique.md",
-    "03. 🥋 Psychotechnologies/Bio-emotive framework.md",
-    "Adaptive Information Processing.md",
-    "03. 🥋 Psychotechnologies/EMDR.md",
-    "03. 🥋 Psychotechnologies/Gendlin Focussing.md",
-    "03. 🥋 Psychotechnologies/Core Transformation.md"
+    "Templates"
   ]
 }

@@ -1,0 +1,19 @@
+
+- Self-Therapy by Jay Earley (IFS)
+- [Waking the Tiger: Healing Trauma](https://www.goodreads.com/en/book/show/384924)
+	- [[Somatic Experiencing]]
+- Unlocking the Emotional Brain
+	- [[Coherence Therapy]]
+- The Language of Emotions
+- [Healing the Shame that Binds You](https://www.goodreads.com/en/book/show/98399)
+- The Body keeps the Score
+- Focusing by Eugene Gendlin
+	- [[Gendlin Focusing]]
+- [Healing Collective Trauma: A Process for Integrating Our Intergenerational and Cultural Wounds](https://www.goodreads.com/en/book/show/50403513)
+- Loving Awakening 
+- Opening the Heart of Compassion
+- Complex PTSD
+	- [[CPTSD]]
+- [Attachment Disturbances: Treatment for Comprehensive Repair](https://www.goodreads.com/en/book/show/26531469)
+- [Introspect](https://visakanv.gumroad.com/l/introspect) by [Visakanv](https://twitter.com/visakanv)
+- https://meditationbook.page/

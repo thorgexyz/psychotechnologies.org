@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99706c1191b3fe9f",
+        "id": "fc1fd97e297bbd03",
         "type": "tabs",
         "children": [
           {
-            "id": "f15a975b650e4518",
+            "id": "875447376bb907ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. 👋 About/Start here.md",
+                "file": "resources/Healing journeys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. 👋 About/Start here.md",
+                "file": "resources/Healing journeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. 👋 About/Start here.md",
+                "file": "resources/Healing journeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. 👋 About/Start here.md"
+                "file": "resources/Healing journeys.md"
               }
             }
           }
@@ -147,40 +147,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f15a975b650e4518",
+  "active": "875447376bb907ff",
   "lastOpenFiles": [
-    "Templates/t_Psychotechnologies.md",
-    "00. 👋 About/psychotechnologies.md",
-    "00. 👋 About/How to contribute.md",
-    "01. 📚 Resources/Related theory.md",
-    "Misc/More Psychotechnologies.md",
-    "Misc/List of psychotechnologies.md",
-    "03. 🥋 Psychotechnologies/VIEW.md",
-    "Misc/psychotechnologies.md",
-    "Misc/self-healing.md",
-    "Templates/Psychotechnologies.md",
-    "03. 🥋 Psychotechnologies/Existential Kink.md",
-    "03. 🥋 Psychotechnologies/EMDR.md",
-    "03. 🥋 Psychotechnologies/Core Transformation.md",
-    "03. 🥋 Psychotechnologies/Coherence Therapy.md",
-    "03. 🥋 Psychotechnologies/Hakomi.md",
-    "03. 🥋 Psychotechnologies/Internal Family Systems (IFS).md",
-    "03. 🥋 Psychotechnologies/Gendlin Focussing.md",
-    "03. 🥋 Psychotechnologies/Bio-emotive Framework.md",
-    "03. 🥋 Psychotechnologies/Alexander Technique.md",
-    "03. 🥋 Psychotechnologies/IPF.md",
-    "03. 🥋 Psychotechnologies/Meditation.md",
-    "03. 🥋 Psychotechnologies/Somatic Experiencing.md",
-    "01. 📚 Resources/Healing journeys.md",
-    "Memory Reconsolidation.md",
-    "Neural Annealing.md",
-    "00. 👋 About/Other psycho technology lists.md",
-    "Templates",
-    "Misc",
-    "04. 🏘 Project",
-    "01. 📚 Resources",
-    "02. 👥 People",
-    "03. 🥋 Psychotechnologies",
-    "00. 👋 About"
+    "about/Start here.md",
+    "about/Use your intuition to find the right psychotechnology.md",
+    "resources/Healing journeys.md",
+    "about/Other psychotechnology lists.md",
+    "about/psychotechnologies.md",
+    "projects/Psychotechnologies.org.md",
+    "about/How to contribute.md",
+    "resources/Risks and Dangers.md",
+    "resources/self-healing.md",
+    "resources/Related theory.md",
+    "resources/Projects.md",
+    "resources/People.md",
+    "resources/other resources.md",
+    "resources/Neural Annealing.md",
+    "resources/More Psychotechnologies.md",
+    "resources/Memory Reconsolidation.md",
+    "resources/Attachment Theory.md",
+    "resources/Books.md",
+    "projects/Sasha Chapin.md",
+    "resources/Dynamics of Inner work.md",
+    "Sasha Chapin.md",
+    "Dynamics of Inner work.md",
+    "The.md",
+    "psychotechnologies/Internal Family Systems (IFS).md",
+    "Risks and Dangers.md",
+    "Misc.md",
+    "templates",
+    "misc",
+    "projects",
+    "resources",
+    "people",
+    "psychotechnologies",
+    "about"
   ]
 }

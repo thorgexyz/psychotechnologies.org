@@ -1,0 +1,96 @@
+List of psychotechnologies and related theory to be explored and potentially aggregated. Some of these might be complete bs so check out with care! :)
+
+- non-coercion
+- journalling 
+- Belief Reporting - 
+- Ultraspeaking - improv
+- Landmark
+- Microsolidarity.cc
+- Authentic relating
+- NEDERA
+- Lefkoe
+- Trauma sensitive yoga
+- Core energetics
+- Limbic retraining
+- DNRS
+- Gupta
+- Priming (Tony Robbins stuff)
+- Matrix energetics
+- Psych-k
+- Molecules of Emotion
+- Circling
+- Sedona Method
+- Reichian bioenergetics
+- Cranio sacral
+- Ancestral and collective trauma healing (Thomas Hübl)
+- FBR
+- Inquiry
+- IDC
+- Naikan
+- Feldenkrais
+- ACT (Acceptance and commitment therapy)
+- Tulpamancy
+- Psychedelic / Psychedelic Assisted Psychotherapy
+	- https://maps.org/research-archive/mdma/MDMA-Assisted-Psychotherapy-Treatment-Manual-Version7-19Aug15-FINAL.pdf
+- Family Constellations
+- UZAZU
+- Gene Keys
+- Being epic (emerging framework)
+- Integral Theory
+- Spiral Dynamics
+- Contact improv
+- Brainspotting
+- Reiki
+- Bodytalk
+- Psychedelic assisted psychotherapy
+- Neuro Affective Relational Model (NARM)
+- DBT (Dialectial Behavior Therapy)
+- EFT (Emotional Freedom Tapping)
+- NLP
+- Lippman's Folding
+- Constructive Developmental Theory (CDT)
+- Sensorimotor psychotherapy
+- PSIP (Psychedelic Somatic Interactional Psychology)
+	- Selective Inhibition
+- Shadow work
+- Introspection
+- AEDP
+- Qigong
+- Psychoanalysis
+- Cognitive Behavioral Therapy
+- Family Systems Therapy
+- Wimhof
+- Holotrophic breathing
+- Compassionate Inquiry
+- Consent Practice
+- Consistent Walking
+- Dynamic Meditation
+- Eye Gazing
+- Havening Techniques
+- Hoffman Process
+- Magnesium
+- Non-Violent Communication
+- Journaling
+- Wardley Mapping
+- DSRP
+- Pletica
+- Cynefin
+- Vagus Nerve Stimulation (tVNS)
+- Radical Acceptance
+- Hypnodelics (psychedelic hypnosis)
+- Gratitude
+- Lucid Dreaming
+- Active Imagination Thread
+- Ennegram
+- Everything from here: https://github.com/mwcvitkovic/neuromodulation_modalities
+- feeding your demons
+	- https://twitter.com/QiaochuYuan/status/1480676492140974081
+
+#### Contribute
+Please help [[How to contribute]]
+Using this template [[t_Psychotechnologies|t_Psychotechnologies]]
+- Principle
+- Function
+- Moste useful for
+
+
