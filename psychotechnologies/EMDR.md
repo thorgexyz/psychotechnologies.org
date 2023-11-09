@@ -1,3 +1,4 @@
+
 Eye Movement Desensitization and Reprocessing (EMDR) is a psychotherapy treatment that's designed to alleviate the stress associated with traumatic memories. Through EMDR, individuals can process these distressing memories, reducing their long-term impact and empowering them to lead healthier, more productive lives
 
 #### Principle

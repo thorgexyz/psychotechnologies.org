@@ -3,7 +3,7 @@ Internal Family Systems (IFS) is a psycho-somatic therapy model that conceptuali
 
 #### Principle
 
-The IFS model is underpinned by systems psychology and draws on family therapy to understand the organization of subpersonalities, which it likens to members of a family. Each part is believed to have positive intent, even when its actions may be dysfunctional. Harmony and balance are sought not through conflict with parts but through understanding and healing them. The key components of IFS include:
+The core thesis of IFS is that the mind is naturally multiple and that is a good thing. Each person harbors various parts, alongside a core Self that possesses leadership qualities like compassion, curiosity, calmness, and confidence. Parts are not maladaptive but carry burdens that can lead to extreme roles within the psyche. The aim is to help parts unburden and restore trust in the Self's leadership. The key parts of IFS include:
 
 - **Exiles:** Parts that carry traumatic experiences and emotional pain.
 - **Managers:** Parts that protect the individual from harm and prevent traumatic experiences from entering consciousness.

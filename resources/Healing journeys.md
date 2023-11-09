@@ -11,8 +11,8 @@ Healing journeys or simple list of tools that helped people.
 - [[MDMA]]
 
 
-[My Healing Journey After Childhood Abuse](https://tim.blog/2020/09/14/how-to-heal-trauma/) by Tim Ferris
-- Tim reveals his personal healing journey from SA he experienced as a kid. He is emphasizing that no matter the trauma one experiences, they are not alone, and it is never hopeless.
+[My Healing Journey After Childhood Abuse](https://tim.blog/2020/09/14/how-to-heal-trauma/) by Tim Ferriss
+- Tim Ferriss, in what he described as the most significant podcast episode he's ever published, shared his personal journey of healing from childhood sexual abuse. Ferriss talks candidly about his experiences and the role of psychedelic therapy in his healing process. He invites a to the conversation, who has also faced similar trauma. Together, they discuss their paths to recovery, using different methods. Ferriss's goal is to destigmatize conversations around sexual abuse and to provide hope, inspiration, and resources to those who may feel alone in their struggles​
 - He link contains many resources including [[Somatic Experiencing]], [[Metta Meditation]], [[Internal Family Systems (IFS)]], [[Hakomi]], [[Psychedelic-assisted Psychotherapy]], [[Breathwork]]
 
 

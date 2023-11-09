@@ -1,4 +1,4 @@
-[[Psychotechnologies.org]] aims to gather resources about [[psychotechnologies]] to help people on their [[self-healing]] journey.
+[[Psychotechnologies.org]] aims to gather resources about [[psychotechnologies]] to guide people on their [[self-healing]] journey.
 
 Start by exploring the [[List of psychotechnologies]], reading other's [[Healing journeys]] or [[Use your intuition to find the right psychotechnology]].
 

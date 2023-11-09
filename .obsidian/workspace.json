@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fc1fd97e297bbd03",
+        "id": "6b45be5e0d15b042",
         "type": "tabs",
         "children": [
           {
-            "id": "875447376bb907ff",
+            "id": "b9c3a88b3d008f9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/Healing journeys.md",
+                "file": "resources/self-healing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/Healing journeys.md",
+                "file": "resources/self-healing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/Healing journeys.md",
+                "file": "resources/self-healing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/Healing journeys.md"
+                "file": "resources/self-healing.md"
               }
             }
           }
@@ -147,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "875447376bb907ff",
+  "active": "b9c3a88b3d008f9a",
   "lastOpenFiles": [
     "about/Start here.md",
-    "about/Use your intuition to find the right psychotechnology.md",
-    "resources/Healing journeys.md",
-    "about/Other psychotechnology lists.md",
     "about/psychotechnologies.md",
-    "projects/Psychotechnologies.org.md",
+    "resources/Healing journeys.md",
     "about/How to contribute.md",
-    "resources/Risks and Dangers.md",
     "resources/self-healing.md",
-    "resources/Related theory.md",
-    "resources/Projects.md",
-    "resources/People.md",
-    "resources/other resources.md",
-    "resources/Neural Annealing.md",
-    "resources/More Psychotechnologies.md",
-    "resources/Memory Reconsolidation.md",
-    "resources/Attachment Theory.md",
-    "resources/Books.md",
-    "projects/Sasha Chapin.md",
-    "resources/Dynamics of Inner work.md",
-    "Sasha Chapin.md",
-    "Dynamics of Inner work.md",
-    "The.md",
-    "psychotechnologies/Internal Family Systems (IFS).md",
-    "Risks and Dangers.md",
+    "about/Use your intuition to find the right psychotechnology.md",
     "Misc.md",
+    "psychotechnologies/Internal Family Systems (IFS).md",
+    "psychotechnologies/Ideal Parent Figure (IPF).md",
+    "about/Other psychotechnology lists.md",
+    "resources/List of psychotechnologies.md",
+    "psychotechnologies/VIEW.md",
+    "psychotechnologies/Somatic Experiencing.md",
+    "psychotechnologies/Metta Meditation.md",
+    "psychotechnologies/Meditation.md",
+    "psychotechnologies/Jhana Meditation.md",
+    "psychotechnologies/Hakomi.md",
+    "psychotechnologies/Gendlin Focusing.md",
+    "psychotechnologies/Existential Kink.md",
+    "psychotechnologies/EMDR.md",
+    "psychotechnologies/Core Transformation.md",
+    "psychotechnologies/Coherence Therapy.md",
+    "psychotechnologies/Bio-emotive Framework.md",
+    "psychotechnologies/Alexander Technique.md",
+    "resources/Risks and Dangers.md",
+    "resources/Related theory.md",
     "templates",
     "misc",
     "projects",

@@ -1,3 +1,4 @@
+
 Core Transformation is a process that delves into the depths of the psyche to alter deep-seated patterns of behavior and emotion. Originating from the fields of Neuro-Linguistic Programming (NLP), psychology, and spirituality, it aims to transform the way individuals experience themselves and the world, achieving profound emotional healing and well-being.
 
 #### Principle
