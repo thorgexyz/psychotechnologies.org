@@ -70,7 +70,6 @@ List of psychotechnologies and related theory to be explored and potentially agg
 - Hoffman Process
 - Magnesium
 - Non-Violent Communication
-- Journaling
 - Wardley Mapping
 - DSRP
 - Pletica
@@ -85,6 +84,7 @@ List of psychotechnologies and related theory to be explored and potentially agg
 - Everything from here: https://github.com/mwcvitkovic/neuromodulation_modalities
 - feeding your demons
 	- https://twitter.com/QiaochuYuan/status/1480676492140974081
+ - Emotional Resolution (EmRes)
 
 #### Contribute
 Please help [[How to contribute]]
