@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/self-healing.md",
+                "file": "Rob Burbea.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "meditation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/self-healing.md",
+                "file": "Rob Burbea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/self-healing.md",
+                "file": "Rob Burbea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/self-healing.md"
+                "file": "Rob Burbea.md"
               }
             }
           }
@@ -149,32 +150,32 @@
   },
   "active": "b9c3a88b3d008f9a",
   "lastOpenFiles": [
-    "about/Start here.md",
-    "about/psychotechnologies.md",
+    "psychotechnologies/Meditation.md",
     "resources/Healing journeys.md",
-    "about/How to contribute.md",
-    "resources/self-healing.md",
-    "about/Use your intuition to find the right psychotechnology.md",
+    "psychotechnologies/Gendlin Focusing.md",
+    "psychotechnologies/Jhana Meditation.md",
+    "Rob Burbea.md",
+    "resources/More Psychotechnologies.md",
+    "resources/List of psychotechnologies.md",
+    "about/Start here.md",
+    "resources/Risks and Dangers.md",
+    "resources/Related theory.md",
+    "psychotechnologies/Coherence Therapy.md",
     "Misc.md",
+    "resources/Projects.md",
+    "psychotechnologies/Metta Meditation.md",
+    "resources/self-healing.md",
+    "about/psychotechnologies.md",
+    "about/How to contribute.md",
+    "about/Use your intuition to find the right psychotechnology.md",
     "psychotechnologies/Internal Family Systems (IFS).md",
     "psychotechnologies/Ideal Parent Figure (IPF).md",
     "about/Other psychotechnology lists.md",
-    "resources/List of psychotechnologies.md",
     "psychotechnologies/VIEW.md",
     "psychotechnologies/Somatic Experiencing.md",
-    "psychotechnologies/Metta Meditation.md",
-    "psychotechnologies/Meditation.md",
-    "psychotechnologies/Jhana Meditation.md",
     "psychotechnologies/Hakomi.md",
-    "psychotechnologies/Gendlin Focusing.md",
     "psychotechnologies/Existential Kink.md",
     "psychotechnologies/EMDR.md",
-    "psychotechnologies/Core Transformation.md",
-    "psychotechnologies/Coherence Therapy.md",
-    "psychotechnologies/Bio-emotive Framework.md",
-    "psychotechnologies/Alexander Technique.md",
-    "resources/Risks and Dangers.md",
-    "resources/Related theory.md",
     "templates",
     "misc",
     "projects",

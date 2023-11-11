@@ -11,6 +11,7 @@ More info on general information coming soon, two separate pages focusing on dif
 - https://thorge.xyz/meditation
 - https://www.reddit.com/r/streamentry/
 - https://x.com/nopranablem/status/1648532446986551296?s=20
+- [[Rob Burbea]]
 
 
 

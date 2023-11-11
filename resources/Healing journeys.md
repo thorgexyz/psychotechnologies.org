@@ -50,6 +50,9 @@ Privilege, Pain and Projection by [[Joe Hudson]] ([[Art of Accomplishment]])
 - The author recounts their healing journey from trauma, exacerbated by chronic illness and abusive relationships, through meditation and other somatic psychotechnologies, highlighting the nuanced challenges and breakthroughs experienced along the way.
 - [[Meditation]], [[Metta Meditation]], [[Internal Family Systems (IFS)]], [[Somatic Experiencing]]
 
+[How I finally found self-love or what I call, internal love](https://infodistillery.com/self-love/) by [anita](https://twitter.com/neats29)
+- Anita's journey to self-love began with a realization of her lack of self-affection. She used Tara Brach's RAIN method for emotional regulation and participated in an online course, the [[Art of Accomplishment]], to confront inherent self-criticism. During the pandemic, she found solace in breathwork via the Othership app, aiding in nervous system regulation. Therapy and continuous breathwork practice significantly improved her emotional well-being, helping her find internal peace and self-love.
+- Self-love, RAIN, [[VIEW]], [[Breathwork]], [[Internal Family Systems (IFS)]]
 
 [The Trauma Narrative: My journey through and healing from trauma](https://aella.substack.com/p/the-trauma-narrative) by [Aella](https://twitter.com/Aella_Girl)
 - A personal journey through understanding and interpreting trauma, as well as the societal narratives that shape our perceptions of traumatic experiences. Aella reflects on the complexities of trauma narratives, questioning their validity and usefulness, and shares insights from personal experiences, including the use of LSD to explore depths of pain and emotion. The piece critiques the societal impulse to categorize and respond to trauma in a standardized way, arguing that while these narratives can help society identify and support suffering, they can also oversimplify and constrain individual experiences

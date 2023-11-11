@@ -32,6 +32,7 @@ List of psychotechnologies and related theory to be explored and potentially agg
 - Tulpamancy
 - Psychedelic / Psychedelic Assisted Psychotherapy
 	- https://maps.org/research-archive/mdma/MDMA-Assisted-Psychotherapy-Treatment-Manual-Version7-19Aug15-FINAL.pdf
+	- https://www.howtousepsychedelics.com/
 - Family Constellations
 - UZAZU
 - Gene Keys

@@ -17,7 +17,7 @@ Jhana meditation is most useful for individuals seeking to experience profound l
 #### Resources
 
 - https://tasshin.com/blog/discovering-bliss-states/
-- https://www.youtube.com/playlist?list=PLO6hhaAzLmiqUzBYuLLJQ8FexOTRxz8xF
+- https://www.youtube.com/playlist?list=PLO6hhaAzLmiqUzBYuLLJQ8FexOTRxz8xF [[Rob Burbea]]
 - https://www.astralcodexten.com/p/nick-cammarata-on-jhana
 - https://www.jhourney.io/
 	- - https://www.jhourney.io/faqs
@@ -28,3 +28,4 @@ Jhana meditation is most useful for individuals seeking to experience profound l
 - https://twitter.com/5matthewdub/status/1612434163256422400
 - https://en.wikipedia.org/wiki/Dhyana_in_Buddhism
 - https://www.goodreads.com/en/book/show/25241895
+- [[Rob Burbea]]
