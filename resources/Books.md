@@ -17,3 +17,5 @@
 - [Attachment Disturbances: Treatment for Comprehensive Repair](https://www.goodreads.com/en/book/show/26531469)
 - [Introspect](https://visakanv.gumroad.com/l/introspect) by [Visakanv](https://twitter.com/visakanv)
 - https://meditationbook.page/
+- [Existential Kink](https://www.goodreads.com/book/show/50915816-existential-kink)
+- [I Need Your Love - Is That True?](https://www.goodreads.com/book/show/320582.I_Need_Your_Love_Is_That_True_)
