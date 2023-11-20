@@ -3,7 +3,8 @@
 - [[Neural Annealing]]
 - Flight, Fight, Freeze, Fawn
 - Autonomic nervous system (PNS & SNS)
-- Polyvagal Theory, Mobilization Reflex Arcs, and Trauma Completion Cycles
+- [[Polyvagal Theory]]
+- , Mobilization Reflex Arcs, and Trauma Completion Cycles
 - Bayesian Brain
 - Predictive Processing
 - Psychedelics research?

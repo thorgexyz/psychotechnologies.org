@@ -1,5 +1,7 @@
 List of psychotechnologies and related theory to be explored and potentially aggregated. Some of these might be complete bs so check out with care! :)
 
+- Aletheia
+	- https://twitter.com/melodaysong/status/1726003666908594252
 - non-coercion
 - journalling 
 - Belief Reporting - 
