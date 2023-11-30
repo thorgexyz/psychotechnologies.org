@@ -11,7 +11,7 @@ Healing journeys or simple list of tools that helped people.
 - [[MDMA]]
 
 
-[My Healing Journey After Childhood Abuse](https://tim.blog/2020/09/14/how-to-heal-trauma/) by Tim Ferriss
+[My Healing Journey After Childhood Abuse](https://tim.blog/2020/09/14/how-to-heal-trauma/) by [Tim Ferriss](https://twitter.com/tferriss)
 - Tim Ferriss, in what he described as the most significant podcast episode he's ever published, shared his personal journey of healing from childhood sexual abuse. Ferriss talks candidly about his experiences and the role of psychedelic therapy in his healing process. He invites a to the conversation, who has also faced similar trauma. Together, they discuss their paths to recovery, using different methods. Ferriss's goal is to destigmatize conversations around sexual abuse and to provide hope, inspiration, and resources to those who may feel alone in their struggles​
 - He link contains many resources including [[Somatic Experiencing]], [[Metta Meditation]], [[Internal Family Systems (IFS)]], [[Hakomi]], [[Psychedelic-assisted Psychotherapy]], [[Breathwork]]
 
@@ -19,6 +19,7 @@ Healing journeys or simple list of tools that helped people.
 [How feeling more secure feels different than I expected](https://www.lesswrong.com/posts/WLSJHJzRjLjRuQ3us/how-feeling-more-secure-feels-different-than-i-expected)
 - The author reflects on their emotional growth, noting that their increased emotional security doesn't stem from the assurance of being liked by others but rather from shifting focus away from such concerns. This shift is not about forcing attention on more rewarding thoughts but naturally inhibiting the preoccupation with others' opinions
 - [[Ideal Parent Figure (IPF)]], [[Attachment Theory]], [[Attachment Repair]]
+
 
 Privilege, Pain and Projection by [[Joe Hudson]] ([[Art of Accomplishment]])
 - Part [one](https://www.youtube.com/watch?v=RTkRzCEnfM8)and [two](https://www.youtube.com/watch?v=5G6bbjSJdjA) 
@@ -36,7 +37,7 @@ Privilege, Pain and Projection by [[Joe Hudson]] ([[Art of Accomplishment]])
 - [[Gendlin Focusing]], [[Bio-emotive Framework]], [[Internal Family Systems (IFS)]], [[Ideal Parent Figure (IPF)]], [[Somatic Experiencing]], [[Coherence Therapy]], [[LSD]], [[MDMA]], [[Meditation]], [[EMDR]], Co-counseling, feeding your demons, [[Alexander Technique]], [[Core Transformation]], [[Existential Kink]]
 
 
-[X Thread on best psychotechnologies explained in Daniel Kahneman's framework](https://twitter.com/reasonisfun/status/1660600237180715008) - by [[Lulie]]
+[X Thread on best psychotechnologies explained in Daniel Kahneman's framework](https://twitter.com/reasonisfun/status/1660600237180715008) by [[Lulie]]
 - another thread: https://twitter.com/reasonisfun/status/1429796212253896710
 - [[Gendlin Focusing]], [[Alexander Technique]], [[VIEW]]
 
@@ -46,36 +47,27 @@ Privilege, Pain and Projection by [[Joe Hudson]] ([[Art of Accomplishment]])
 - [[Meditation]]
 
 
-[How I Healed My Severe Trauma](https://maija-haavisto.medium.com/how-i-healed-my-severe-trauma-e24b6913cd77) - by [Maija](https://twitter.com/DiamonDie)
+[How I Healed My Severe Trauma](https://maija-haavisto.medium.com/how-i-healed-my-severe-trauma-e24b6913cd77) by [Maija](https://twitter.com/DiamonDie)
 - The author recounts their healing journey from trauma, exacerbated by chronic illness and abusive relationships, through meditation and other somatic psychotechnologies, highlighting the nuanced challenges and breakthroughs experienced along the way.
 - [[Meditation]], [[Metta Meditation]], [[Internal Family Systems (IFS)]], [[Somatic Experiencing]]
+
 
 [How I finally found self-love or what I call, internal love](https://infodistillery.com/self-love/) by [anita](https://twitter.com/neats29)
 - Anita's journey to self-love began with a realization of her lack of self-affection. She used Tara Brach's RAIN method for emotional regulation and participated in an online course, the [[Art of Accomplishment]], to confront inherent self-criticism. During the pandemic, she found solace in breathwork via the Othership app, aiding in nervous system regulation. Therapy and continuous breathwork practice significantly improved her emotional well-being, helping her find internal peace and self-love.
 - Self-love, RAIN, [[VIEW]], [[Breathwork]], [[Internal Family Systems (IFS)]]
+
 
 [The Trauma Narrative: My journey through and healing from trauma](https://aella.substack.com/p/the-trauma-narrative) by [Aella](https://twitter.com/Aella_Girl)
 - A personal journey through understanding and interpreting trauma, as well as the societal narratives that shape our perceptions of traumatic experiences. Aella reflects on the complexities of trauma narratives, questioning their validity and usefulness, and shares insights from personal experiences, including the use of LSD to explore depths of pain and emotion. The piece critiques the societal impulse to categorize and respond to trauma in a standardized way, arguing that while these narratives can help society identify and support suffering, they can also oversimplify and constrain individual experiences
 - [[LSD]]
 
 
-From Wallstreet to Spirituality
-- Tom had an awakening experience that made him feel connected to  
-everything, but also triggered a manic and delusional state that  
-lasted for months. He then suffered from severe depression, anxiety,  
-and suicidal thoughts. He felt disconnected from his wife, his son,  
-and his life. He quit his job to find a more meaningful one. He also  
-tried various therapies and medications, but nothing helped. He  
-enrolled in a ketamine trial for treatment-resistant depression. After  
-eight infusions, he had a cathartic confrontation with his inner demon  
-and felt a surge of hope and relief. He gradually recovered his sense  
-of beauty, joy, and purpose. He found a way to integrate his previous  
-job's skills and his spiritual insights and started writing about them  
-to help others navigate their own spiritual journeys.
-- [https://www.ecstaticintegration.org/p/a-dark-night-on-wall-street](https://www.ecstaticintegration.org/p/a-dark-night-on-wall-street)  
-- [https://whatsimportant.substack.com/p/pull-yourself-together](https://whatsimportant.substack.com/p/pull-yourself-together)  
-- [https://whatsimportant.substack.com/p/the-bridge-back-to-magic](https://whatsimportant.substack.com/p/the-bridge-back-to-magic)
-- [https://deepfix.substack.com/p/beast-angel-madman](https://deepfix.substack.com/p/beast-angel-madman) (paywalled)
+[From Wallstreet to Spirituality](https://www.ecstaticintegration.org/p/a-dark-night-on-wall-street) by [Tom Morgan](https://twitter.com/tomowenmorgan)
+- Tom had an awakening experience that made him feel connected to everything, but also triggered a manic and delusional state that lasted for months. He then suffered from severe depression, anxiety, and suicidal thoughts. He felt disconnected from his wife, his son, and his life. He tried tried various therapies and medications including quiting his job for a more meaningful career, but nothing helped. As a last-ditch effort, he enrolled in a ketamine trial for treatment-resistant depression. After eight infusions, he had a cathartic confrontation with his inner demon and felt a surge of hope and relief. He gradually recovered his sense of beauty, joy, and purpose. He found a way to integrate his previous job's skills and his spiritual insights. He started writing about them to help others navigate their own spiritual journeys.
+- Further Writing from Tom:
+  - [Pull Yourself Together](https://whatsimportant.substack.com/p/pull-yourself-together)  
+  - [The Bridge Back To Magic](https://whatsimportant.substack.com/p/the-bridge-back-to-magic)
+- [[Ketamine]]
 
 
 https://twitter.com/petrichor_lull/status/1691157573452406784
@@ -87,5 +79,5 @@ https://twitter.com/petrichor_lull/status/1691157573452406784
 
 
 [100 ways to feel more safe in the world](https://x.com/captain_mrs/status/1469810880405774340?s=20)
-- fun twitter thead
+- fun twitter thread
 
