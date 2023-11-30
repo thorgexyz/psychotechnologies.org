@@ -59,6 +59,25 @@ Privilege, Pain and Projection by [[Joe Hudson]] ([[Art of Accomplishment]])
 - [[LSD]]
 
 
+From Wallstreet to Spirituality
+- Tom had an awakening experience that made him feel connected to  
+everything, but also triggered a manic and delusional state that  
+lasted for months. He then suffered from severe depression, anxiety,  
+and suicidal thoughts. He felt disconnected from his wife, his son,  
+and his life. He quit his job to find a more meaningful one. He also  
+tried various therapies and medications, but nothing helped. He  
+enrolled in a ketamine trial for treatment-resistant depression. After  
+eight infusions, he had a cathartic confrontation with his inner demon  
+and felt a surge of hope and relief. He gradually recovered his sense  
+of beauty, joy, and purpose. He found a way to integrate his previous  
+job's skills and his spiritual insights and started writing about them  
+to help others navigate their own spiritual journeys.
+- [https://www.ecstaticintegration.org/p/a-dark-night-on-wall-street](https://www.ecstaticintegration.org/p/a-dark-night-on-wall-street)  
+- [https://whatsimportant.substack.com/p/pull-yourself-together](https://whatsimportant.substack.com/p/pull-yourself-together)  
+- [https://whatsimportant.substack.com/p/the-bridge-back-to-magic](https://whatsimportant.substack.com/p/the-bridge-back-to-magic)
+- [https://deepfix.substack.com/p/beast-angel-madman](https://deepfix.substack.com/p/beast-angel-madman) (paywalled)
+
+
 https://twitter.com/petrichor_lull/status/1691157573452406784
 - Realization that the various self-healing practices they engaged in were actually hindering their peace and healing. Instead of constantly working on different parts of themselves through methods like Internal Family Systems (IFS), the Alexander Technique, or Bioemotive Framework, they found tranquility in accepting themselves as inherently whole and full of life's sweetness and love
 
